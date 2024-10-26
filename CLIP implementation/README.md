@@ -1,8 +1,8 @@
 My execution of the code from https://github.com/revantteotia/clip-training
 
-The model was trained on MSCOCO and  zero-shot tested on CIFAR100 and ImageNet.
+The model was trained on MS-COCO and  zero-shot tested on CIFAR100 and ImageNet.
 
-* **Note:** The model performance is not yet good and suffers from overfitting on the training data. Since MSCOCO is small and not diverse enough, training on larger datasets can solve the issue.
+* **Note:** The model performance is not yet good and suffers from overfitting on the training data. Since MS-COCO is small and not diverse enough, training on larger datasets can solve the issue.
 
 ---
 Demo result:
