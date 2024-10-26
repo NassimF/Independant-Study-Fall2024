@@ -1,3 +1,5 @@
+# CLIP (Contrastive Language-Image Pretraining)
+
 My execution of the code from https://github.com/revantteotia/clip-training
 
 The model was trained on MS-COCO and  zero-shot tested on CIFAR100 and ImageNet.
