@@ -6,9 +6,12 @@ Here I'll be sharing usefull resources and my implementations of the subjects co
 
 Index:
 
-- [X]  CLIP
+- [ ] Transformers
+- [ ] CLIP
+- [ ] Diffusion models
+- [ ] GANs
+- [ ] Auto Encoders
+- [ ] Vision Transformers
+- [ ] CNNs
 
----
-TO DO
 
-- [ ] Transformers code
