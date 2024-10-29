@@ -1,9 +1,3 @@
-"""
-Simple Generative adversarial network, learned to generate
-images from selected video file (located in 'data' folder).
-Adapted from Advanced Machine Learning Specialization, Coursera.
-2018, July.
-"""
 
 import matplotlib.pyplot as plt
 import numpy as np
