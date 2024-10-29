@@ -13,5 +13,6 @@ Index:
 - [ ] Auto Encoders
 - [ ] Vision Transformers
 - [ ] CNNs
+- [ ] Multimodal Transformers
 
 
