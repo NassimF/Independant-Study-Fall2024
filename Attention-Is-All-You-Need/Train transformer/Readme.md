@@ -1,4 +1,4 @@
-This is a sample code to train a Transformer for a translation task
+This is a sample code to train a Transformer for a translation task on the opus_books dataset from Hugging Face
 
 ---
 
