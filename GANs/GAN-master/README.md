@@ -6,15 +6,3 @@
 
 **Used some code from: https://www.coursera.org/learn/intro-to-deep-learning/home/week/4**
 
----
-
-### *The Matrix*
-
-<img src="/images/matrix_1.png" height="320"/><img src="/images/matrix_3.png" height="320"/><img src="/images/matrix_6.png" height="320"/><img src="/images/matrix_8.png" height="320"/><img src="/images/matrix_9.png" height="320"/><img src="/images/matrix_10.png" height="320"/>
-
----
-
-### *The Simpsons*
-
-<img src="/images/simpsons_1.png" height="320"/><img src="/images/simpsons_3.png" height="320"/><img src="/images/simpsons_6.png" height="320"/><img src="/images/simpsons_8.png" height="320"/><img src="/images/simpsons_9.png" height="320"/><img src="/images/simpsons_10.png" height="320"/>
-
