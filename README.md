@@ -15,4 +15,9 @@ Index:
 - [ ] CNNs
 - [ ] Multimodal Transformers
 
+---
+# Useful tools + General resources:
+
+* [Weights and Biases:](https://wandb.ai/site/)  Weights & Biases (W&B) is a platform designed to help machine learning practitioners track experiments, visualize metrics, manage datasets, and collaborate more effectively.
+
 
