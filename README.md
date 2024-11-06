@@ -31,3 +31,6 @@ The results I got using the model demo:
 
 <img src="https://github.com/NassimF/Berkeley-Videos/blob/main/OmniParser_output.webp" alt="output" width="400"/>
 
+<img src="https://github.com/NassimF/Berkeley-Videos/blob/main/1_Z7frcx_FWWp-No7MI3ryGQ.webp" alt="output" width="600"/>
+
+
