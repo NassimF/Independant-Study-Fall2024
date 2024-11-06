@@ -28,4 +28,6 @@ Index:
 You can find the demo and model card on HuggingFace: https://huggingface.co/spaces/microsoft/OmniParser
 
 The results I got using the model demo:
-![ ](
+
+<img src="https://github.com/NassimF/Berkeley-Videos/blob/main/OmniParser_output.webp" alt="output" width="400"/>
+
