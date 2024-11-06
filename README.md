@@ -31,6 +31,28 @@ The results I got using the model demo:
 
 <img src="https://github.com/NassimF/Berkeley-Videos/blob/main/OmniParser_output.webp" alt="output" width="400"/>
 
-<img src="https://github.com/NassimF/Berkeley-Videos/blob/main/1_Z7frcx_FWWp-No7MI3ryGQ.webp" alt="output" width="600"/>
+Parser outputs:
+
+```Text Box ID 0: 12:40
+Text Box ID 1: Q
+Text Box ID 2: What can we help you find?.
+Text Box ID 3: Top Deals
+Text Box ID 4: Weekly Ad
+Text Box ID 5: Grocery
+Text Box ID 6: Household Ess.
+Text Box ID 7: @ Pickup
+Text Box ID 8: Delivery
+Text Box ID 9: Make a list.
+Text Box ID 10: Welcome
+Text Box ID 11: Explore new Ocircle deals today!
+Text Box ID 12: OH-SO MERRY!
+Text Box ID 13: Your one-stop shop
+Text Box ID 14: for all the Christmas magic.
+Text Box ID 15: Mery
+Text Box ID 16: Pright
+Text Box ID 17: Discover
+Text Box ID 18: Essentials
+Text Box ID 19: Wallet
+Text Box ID 20: Cart```
 
 
