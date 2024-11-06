@@ -20,4 +20,12 @@ Index:
 
 * [Weights and Biases:](https://wandb.ai/site/)  Weights & Biases (W&B) is a platform designed to help machine learning practitioners track experiments, visualize metrics, manage datasets, and collaborate more effectively.
 
+---
+# Miscellaneous:
 
+**Microsoft's OmniParser**: An advanced tool designed for extracting and interpreting interactive elements within graphical user interfaces (GUIs), like app screens or website interfaces. Primarily aimed at enhancing multimodal language models, such as GPT-4 Vision, OmniParser converts GUI screenshots into structured data by identifying clickable icons, text fields, and other interactable regions, and by associating relevant semantic information with each identified element. 
+
+You can find the demo and model card on HuggingFace: https://huggingface.co/spaces/microsoft/OmniParser
+
+The results I got using the model demo:
+![ ](
