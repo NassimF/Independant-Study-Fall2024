@@ -1,6 +1,6 @@
-# Berkeley-Videos
+# Independant-Study-Fall2024
 
-Here I'll be sharing usefull resources and my implementations of the subjects covered in the [CS 198-126: Deep Learning for Visual Data course](https://ml-berkeley.notion.site/CS-198-126-Deep-Learning-for-Visual-Data-a57e2aca54c046edb7014439f81ba1d5).
+Here I'll be sharing usefull resources that I discover during my independant study, specifically based on the subjects covered in the [CS 198-126: Deep Learning for Visual Data course](https://ml-berkeley.notion.site/CS-198-126-Deep-Learning-for-Visual-Data-a57e2aca54c046edb7014439f81ba1d5).
 
 ---
 
