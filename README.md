@@ -23,7 +23,10 @@ Index:
 ---
 # Miscellaneous:
 
-**Microsoft's OmniParser**: An advanced tool designed for extracting and interpreting interactive elements within graphical user interfaces (GUIs), like app screens or website interfaces. Primarily aimed at enhancing multimodal language models, such as GPT-4 Vision, OmniParser converts GUI screenshots into structured data by identifying clickable icons, text fields, and other interactable regions, and by associating relevant semantic information with each identified element. 
+* **IIT Deep Learning Course:** https://www.youtube.com/playlist?list=PLZ2ps__7DhBZVxMrSkTIcG6zZBDKUXCnM
+
+* **Microsoft's OmniParser**: An advanced tool designed for extracting and interpreting interactive elements within graphical user interfaces (GUIs), like app screens or website interfaces. 
+   Primarily aimed at enhancing multimodal language models, such as GPT-4 Vision, OmniParser converts GUI screenshots into structured data by identifying clickable icons, text fields, and other interactable regions, and by associating relevant semantic information with each identified element. 
 
 You can find the demo and model card on HuggingFace: https://huggingface.co/spaces/microsoft/OmniParser
 
