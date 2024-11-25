@@ -22,3 +22,9 @@
 5) Scalability:
 
     The approach is efficient and scalable, leveraging the principles of transformer-based architectures.
+
+
+
+**Demo**
+
+[Watch Video](Independant-Study-Fall2024/Multimodal%20Transformers/MultiMAE_pullfigure.mp4)
