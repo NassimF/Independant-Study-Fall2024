@@ -1,5 +1,7 @@
 **This is my reproduction of the results from https://github.com/hustvl/EVF-SAM**
 
+EVF-SAM demo on HuggingFace: https://huggingface.co/spaces/wondervictor/evf-sam
+
 ## **Abstract:**
 
 This paper presents EVF-SAM, a state-of-the-art model designed for referring expression segmentation and  by leveraging multimodal prompts that combine text and image information. EVF-SAM integrates powerful vision-language models like BEIT-3 with the Segment Anything Model (SAM) to achieve superior segmentation accuracy. Despite its innovative architecture, it shows robust generalization across challenging RES benchmarks and this sets new standards for multimodal segmentation tasks. This paper  highlights the potential of combining foundational vision and language models for real-world applications.
@@ -34,7 +36,7 @@ The results show that despite being lightweight, EVF-SAM has a great performance
 <img src="results.png" alt="output" width="400"/>
 
 
-## Some of my visual experiments with EVF-SAM
+## Some of my inference experiments with EVF-SAM
 
 <img src="fish.png" alt="output" width="400"/>
 
