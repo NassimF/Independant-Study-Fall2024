@@ -30,6 +30,29 @@ My reproduction of the results on RefCOCO, RefCOCO+, and RefCOCOog which were cl
 
 I used a single GPU node from UTSA's ARC HPC.
 
+My inference setup:
+
+```
+>   --version YxZhang/evf-sam \
+>   --precision 'fp16' \
+>   --vis_save_path "/EVF-SAM/output" \
+>   --model_type "ori" \
+>   --image_path "/fish.jpg" \
+>   --prompt "the clown fish far away" 
+```
+
+My training setup:
+
+```
+torchrun --standalone --nproc_per_node 2 eval.py   \
+    --version YxZhang/evf-sam \
+    --dataset_dir /data   \
+    --val_dataset "refcoco|unc|val" \
+    --model_type ori
+```
+
+In all setups I used the original EVF-SAM model which was the same as the one in the paper. Other options are the efficient type and SAM2.
+
 The results show that despite being lightweight, EVF-SAM has a great performance compared to other SOTA models on the task of Referring Expression 
  Segmentation.
 
