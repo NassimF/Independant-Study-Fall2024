@@ -56,6 +56,11 @@ In all setups I used the original EVF-SAM model which was the same as the one in
 The results show that despite being lightweight, EVF-SAM has a great performance compared to other SOTA models on the task of Referring Expression 
  Segmentation.
 
+Results from the paper:
+
+<img src="results2.png" alt="output" width="800"/>
+
+
 <img src="results.png" alt="output" width="400"/>
 
 
