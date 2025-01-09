@@ -6,14 +6,30 @@ This paper presents EVF-SAM, a state-of-the-art model designed for referring exp
 
 
 ---
+**What is SAM?**
 
+The Segment Anything Model, or SAM, is a foundational tool for interactive image segmentation. It lets users generate accurate segmentation masks for objects using geometric prompts such as points and boxes.
+
+<img src="SAM.png" alt="output" width="400"/>
+
+
+**What is Referring Expression Segmentation?**
+
+RES is a task where a text description is used to identify and segment a specific object in an image.
+
+
+<img src="RES.png" alt="output" width="400"/>
+
+
+---
 # Results
 
 My reproduction of the results on RefCOCO, RefCOCO+, and RefCOCOog which were close to the results in paper.
 
 I used a single GPU node from UTSA's ARC HPC.
 
-The results show that despite being lightweight, EVF-SAM has a great performance compared to other SOTA models in RES.
+The results show that despite being lightweight, EVF-SAM has a great performance compared to other SOTA models on the task of Referring Expression 
+ Segmentation.
 
 <img src="results.png" alt="output" width="400"/>
 
